@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: dsservice
+Version: 0.1.0
+Summary: Flask + Kafka service for handling messages
+Author-email: Pankaj <pankaj@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: flask
+Requires-Dist: kafka-python
+Requires-Dist: jsonpickle
+
+# dsService
